@@ -6,6 +6,7 @@ public class test2 {
 		// TODO Auto-generated method stub
 		System.out.println("test class");
 		System.out.println("new line added");
+		System.out.println("new line added - 3");
 
 	}
 
