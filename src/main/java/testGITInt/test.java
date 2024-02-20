@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 
 public class test {
 
-	@Test
+	@Test(groups="Level1")
 	public void test1() {
 		
 		WebDriver driver = new ChromeDriver();
