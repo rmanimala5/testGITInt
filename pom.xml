@@ -177,8 +177,10 @@
 <artifactId>maven-surefire-plugin</artifactId>
 <version>3.0.0-M4</version>
 <configuration>
+<suiteXmlFiles>
+	<suiteXmlFile>testNG.xml<\suiteXmlFile> 
+</suiteXmlFiles>	
 
-<groups>Level1,Level2</groups>
 </configuration>
 </plugin>
 </plugins>
