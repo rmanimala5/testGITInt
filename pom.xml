@@ -116,12 +116,7 @@
     <version>32.0.1-jre</version>
 </dependency>
 
-<!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
-<dependency>
-    <groupId>io.github.bonigarcia</groupId>
-    <artifactId>webdrivermanager</artifactId>
-    <version>5.5.2</version>
-</dependency>
+
 
 
 <dependency>
