@@ -6,11 +6,13 @@ import org.testng.annotations.Test;
 
 public class test {
 
-	@Test()
-	public void test1(priority=0) {
+	@Test(priority=0)
+	public void test1() {
 		
 		WebDriver driver = new ChromeDriver();
+		System.out.println("executed");
 		driver.get("https://www.google.com");
+	        System.out.println("completed");
 	}
 
 }
