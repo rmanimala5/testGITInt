@@ -178,7 +178,7 @@
 <version>3.0.0-M4</version>
 <configuration>
 <suiteXmlFiles>
-	<suiteXmlFile>testNG.xml<\suiteXmlFile> 
+	<suiteXmlFile>testNG.xml</suiteXmlFile> 
 </suiteXmlFiles>	
 
 </configuration>
