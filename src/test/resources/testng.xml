@@ -4,6 +4,8 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="testGITInt.test"/>
+      <class name="testGITInt.test3"/>
+      <class name="testGITInt.test4"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
